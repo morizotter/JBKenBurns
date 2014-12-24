@@ -24,7 +24,7 @@
 
 #import "JBKenBurnsView.h"
 
-#define enlargeRatio 1.1
+#define enlargeRatio 1.5
 #define imageBufer 3
 
 enum JBSourceMode {
